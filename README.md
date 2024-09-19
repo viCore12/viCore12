@@ -1,4 +1,3 @@
-# template-portfolio
 [![NhanVi](https://i.pinimg.com/originals/ff/48/5c/ff485c7308ac42fb77e622684c30e29d.gif)]([https://www.kaggle.com/nhanvi])
 <h1 align="center">Hi 👋, I'm Nhan Vi</h1>
 <h3 align="center">AI Engineer | AI Developer</h3>
@@ -6,11 +5,9 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicore12&label=Profile%20views&color=0e75b6&style=flat" alt="vicore12" /> </p>
-- 🔭 I’m currently working on [](link)
+- 🔭 I’m currently working on [Be-Earning](link)
 
 - 🌱 I’m currently learning **Data Science**
-
-- 🤝 I’m looking for help with [bbbbbbbbb](link)
 
 - 💬 Ask me about **AI, CV, NLP**
 
