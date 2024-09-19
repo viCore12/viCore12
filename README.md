@@ -1,8 +1,8 @@
 # template-portfolio
-[![NhanVi](https://s2.ezgif.com/tmp/ezgif-2-0c5c313c24.webp)]([https://www.kaggle.com/nhanvi])
+[![NhanVi](https://i.pinimg.com/originals/ff/48/5c/ff485c7308ac42fb77e622684c30e29d.gif)]([https://www.kaggle.com/nhanvi])
 <h1 align="center">Hi 👋, I'm Nhan Vi</h1>
 <h3 align="center">AI Engineer | AI Developer</h3>
-<img align="right" alt="Coding" width="400" src="[https://i.pinimg.com/originals/ff/48/5c/ff485c7308ac42fb77e622684c30e29d.gif]">
+<img align="right" alt="Coding" width="400" src="https://s4.ezgif.com/tmp/ezgif-4-43fd3ea626.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rishavchanda&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Android , MEARN**
+- 💬 Ask me about **AI , Math**
 
 - 📫 How to reach me **nhanvi212@gmail.com**
 
