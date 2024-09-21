@@ -1,11 +1,11 @@
 [![NhanVi](https://i.pinimg.com/originals/ff/48/5c/ff485c7308ac42fb77e622684c30e29d.gif)]([https://www.kaggle.com/nhanvi])
-<h1 align="center">Hi 👋, I'm Nhan Vi</h1>
+<h1 align="center">Hi 👋, I'm Vi Core</h1>
 <h3 align="center">AI Engineer | AI Developer</h3>
 <img align="right" alt="Coding" width=300" src="https://media3.giphy.com/media/d2PqO9s7M9CNO/giphy.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicore12&label=Profile%20views&color=0e75b6&style=flat" alt="vicore12" /> </p>
-- 🔭 I’m currently working on [Be-Earning](link)
+- 🔭 I’m currently working on Be Earning
 
 - 🌱 I’m currently learning **Data Science**
 
