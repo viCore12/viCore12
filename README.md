@@ -1,4 +1,4 @@
-[![NhanVi](https://i1.wp.com/wallpapercave.com/wp/wp2757868.gif)]([https://www.kaggle.com/nhanvi])
+[![NhanVi](https://www.goforquiz.com/wp-content/uploads/2021/04/saitama-ok.gif)]([https://www.kaggle.com/nhanvi])
 <h1 align="center">Hi 👋, I'm Vi Core</h1>
 <h3 align="center">AI Engineer | AI Developer</h3>
 <img align="right" alt="Coding" width=500 heigth=600" src="https://i.pinimg.com/originals/ff/48/5c/ff485c7308ac42fb77e622684c30e29d.gif">
