@@ -5,8 +5,6 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicore12&label=Profile%20views&color=0e75b6&style=flat" alt="vicore12" /> </p>
-- 🔭 I’m currently working on Be Earning
-
 - 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **AI, CV, NLP**
